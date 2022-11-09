@@ -4,7 +4,7 @@ pragma solidity ^0.6.0;
 
 import "./SimpleStorage.sol";
 
-//inheritance
+//inheritance 
 contract StorageFactory is SimpleStorage {
     
     SimpleStorage[] public SSArray;
