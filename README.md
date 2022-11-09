@@ -1,6 +1,8 @@
 # Solidity
 
-Programas de aprendizado e testes /n
+Programas de aprendizado e testes<br/>
 Iniciando os estudos em programação de blockchain
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Curso Blockchain em Python
+
+[![Curso Blockchain](https://img.youtube.com/vi/M576WGiDBdQ/0.jpg)](https://www.youtube.com/watch?v=M576WGiDBdQ)
